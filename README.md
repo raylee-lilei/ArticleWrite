@@ -1,7 +1,6 @@
-# C_Study
+# blog 记录
 
 ```
-git push -u origin main
-分支在main上面
+
 
 ```
