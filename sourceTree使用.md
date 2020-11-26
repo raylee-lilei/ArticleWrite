@@ -18,7 +18,7 @@
 
 ![img](https://gitee.com/raylee-lilei/cdn/raw/master/wps5.jpg) 
 
-如果没有冲突直接 确认就行，有冲突的话需要解决冲突，解决冲突就是要确定用谁写的代码
+如果没有冲突直接 确认就行，有冲突的话需要解决冲突（在分支合并历史记录最上面可以看到  未提交的更改，出现三角感叹号的文件就是冲突文件，选择需要的代码保存，然后在点击暂存），解决冲突就是要确定用谁写的代码
 
 3. ![img](https://gitee.com/raylee-lilei/cdn/raw/master/wps5.jpg)
 
